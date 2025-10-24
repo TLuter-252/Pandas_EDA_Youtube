@@ -6,12 +6,6 @@ We looked at the data set for Trending YouTube Video Statistics for the US from 
 
 We wanted to map out the relationship between the different viewer engagement metrics and see if there were any correlations. We also wanted to take a focused look at the top channels.
 
-## Possible Benefits:
-
-Our findings can either help reinforce or contradict the popular notion that the various metrics for video engagement are related.
-
-Our finds can also possibly reveal relationship between the metrics that we have not seen before.
-
 ## Describe the Data:
 ### Columns:
 
@@ -160,3 +154,9 @@ Although not provided in the US Trending YouTube Video Statistics, if there was 
 - `dislikes` and revenue
 
 Then we could more compare if positive reactions to a video leads to revenue, versus negative reactions, versus any engagement overall.
+
+## Possible Benefits:
+
+Our findings can either help reinforce or contradict the popular notion that the various metrics for video engagement are related.
+
+Our finds can also possibly reveal relationship between the metrics that we have not seen before.
