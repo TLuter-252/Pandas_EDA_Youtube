@@ -70,7 +70,7 @@ Although not provided in the US Trending YouTube Video Statistics, if there was 
 We made several plots to try to map out the relationship between the viewer metrics.
 
 #### A. Tim's Plots Here
-Graph 1: Likes and Dislikes per Top 20 Videos
+Graph 1 (Bar): Likes and Dislikes per Top 20 Videos
 
 What it shows: The 20 most-viewed videos. For each video, you see likes (green bars going up) and dislikes (red bars going down).
 X-axis: The video’s view count (bigger number = further to the right).
