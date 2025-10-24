@@ -78,7 +78,7 @@ We made several plots to try to map out the relationship between the viewer metr
 #### A. Bar Graphs of Metrics on Top 20 Channels:
 **1. Likes and Dislikes per Top 20 Videos**
 
-![Bar](img/bar1.png)
+![Bar](img/Bar_1_Keep.png)
 *Bar graph of likes and dislikes per top 20 videos*
 
 **What it shows:** The 20 most-viewed channels' videos. For each video, you see `likes` (green bars going up) and `dislikes` (red bars going down).
@@ -91,7 +91,7 @@ How to read it: Taller green bars mean a video got a lot of `likes`; deeper red 
 
 **2. Top 20 Channels by Likes per View**
 
-![Bar](img/bar2.png)
+![Bar](img/Bar_2_Keep.png)
 *Bar graph of top 20 channels by likes per view*
 
 **What it shows:** The channels that get the highest `like rate` overall.
@@ -102,7 +102,7 @@ How to read it: Longer bars = a higher share of viewers clicked `like`.. It only
 
 **3. Top 20 Channels by Comments per View**
 
-![Bar](img/bar3.png)
+![Bar](img/Bar_3_Keep.png)
 *Bar graph of top 20 channels by comments per view*
 
 **What it shows:** The channels that spark the most comments per view.
