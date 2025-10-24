@@ -70,7 +70,7 @@ Although not provided in the US Trending YouTube Video Statistics, if there was 
 We made several plots to try to map out the relationship between the viewer metrics.
 
 #### A. Tim's Plots Here
-Map 1: Likes and Dislikes per Top 20 Videos
+Graph 1: Likes and Dislikes per Top 20 Videos
 
 What it shows: The 20 most-viewed videos. For each video, you see likes (green bars going up) and dislikes (red bars going down).
 X-axis: The video’s view count (bigger number = further to the right).
@@ -78,13 +78,13 @@ Y-axis: The size of the bar = how many likes or dislikes that video has.
 Why some bars go down: Dislikes are plotted as negative so you can see likes vs. dislikes for the same video without stacking on top of each other.
 How to read it: Taller green bars mean a video got a lot of likes; deeper red bars mean a lot of dislikes. Compare the two bars around the same x-position to see the “approval vs. disapproval” for that video.
 
-Map 2 (H Bar) : Top 20 Channels by Likes per View
+Graph 2 (H Bar) : Top 20 Channels by Likes per View
 
 What it shows: The channels that get the highest like rate overall.
 Like rate = total likes ÷ total views for each channel (so bigger channels don’t win just because they have more views).
 How to read it: Longer bars = a higher share of viewers clicked “like.”. It only includes channels with at least 3 videos and at least 1,000,000 total views, so tiny channels don’t skew the results.
 
-Map 3 (H Bar): Top 20 Channels by Comments per View
+Graph 3 (H Bar): Top 20 Channels by Comments per View
 
 What it shows: The channels that spark the most comments per view.
 Comment rate = total comments ÷ total views (again, adjusted for size).
