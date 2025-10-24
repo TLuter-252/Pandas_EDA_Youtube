@@ -17,7 +17,6 @@ We removed the following columns as we determined that they were not directly re
 - `video_id`: unique identifier for video in hyperlink
 - `trending_date`: date time of when video was trending
 - `title`: title of video
-- `channel_title`: channel or uploader name
 - `category_id`: numerical identifier for video's category
 - `publish_time`: when video was uploaded
 - `tags`: phrases used to promote video in search results
@@ -34,6 +33,7 @@ We kept columns for:
 - `likes`: how many logged-in users liked the video
 - `dislikes`: how many logged-in users disliked the video
 - `comment_count`: how many logged-in users left comments
+- `channel_title`: channel or uploader name
 
 as they pertained directly as measures for video's viewer engagement.
 
